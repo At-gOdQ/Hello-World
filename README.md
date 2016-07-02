@@ -1,2 +1,4 @@
 # Hello-World
-This is a practical 
+This is just a practical repository!
+
+Hello world!
